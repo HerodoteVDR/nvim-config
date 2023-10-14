@@ -16,3 +16,6 @@ vim.opt.isfname:append("@-@")
 vim.opt.termguicolors = true
 vim.opt.updatetime = 50
 vim.g.mapleader = " "
+
+vim.opt.undofile = true
+vim.opt.undodir = "C:\\Users\\theod\\Documents\\undodir"
