@@ -12,6 +12,16 @@ return {
 						week_header = {
 							enable = true,
 						},
+						header = {
+
+							"JUJU",
+							"",
+
+							""
+
+		
+						},
+
 						shortcut = {
 							{ desc = '󰊳 Update', group = '@property', action = 'Lazy update', key = 'u' },
 							{
